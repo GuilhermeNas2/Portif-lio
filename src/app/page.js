@@ -82,7 +82,7 @@ export default function Home() {
             </div>
             <div className="flex flex-col lg:flex-row lg:justify-around items-center p-2">
               <div className="w-1/2 lg:w-1/3 font-rich">
-                <img src="software.png"></img>
+                <img src="Software.png"></img>
               </div>
               <div className="text-center w-fit mt-3 p-3 bg-zinc-600 rounded-sm lg:w-1/2">
                 <h3 className="text-3xl mb-3 font-rich">Software</h3>
